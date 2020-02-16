@@ -28,7 +28,7 @@ public class FirstAid extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_first_aid);
         listView=findViewById(R.id.first_aid);
-        MyAdapter adapter=new MyAdapter(c.this,mTitle,mDescription,images);
+        MyAdapter adapter=new MyAdapter(this,mTitle,mDescription,images);
         listView.setAdapter(adapter);
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
