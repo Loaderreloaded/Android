@@ -1,10 +1,21 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="username">username</string>
-    <string name="password">password</string>
+    <string name="logo">CAIS \n Care And Informative System</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
     <string name="login">Login</string>
     <string name="not_registered">Not Registered ?</string>
     <string name="register">Register</string>
     <string name="cnfrm_password">Confirm Password</string>
     <string name="already_registered">Already Registered ?</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile Number</string>
+    <string name="residence">Flat No/House No</string>
+    <string name="society">Society Name</string>
+    <string name="land_mark">Land Mark(if Any)</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="Pin">Pin code</string>
+    <string name="title">Register</string>
 </resources>
+
