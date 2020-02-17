@@ -24,7 +24,7 @@ public abstract class asthama_custom_layout extends RecyclerView.Adapter {
                 parent, false);
         return new PlaceViewHolder(view);
     }
-    
+
     public void onBindViewHolder(final PlaceViewHolder holder, int position) {
         holder.mPlace.setImageResource(mPlaceList[position]);
     }
