@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1074469412857",
+    "firebase_url": "https://cais1-e03e9.firebaseio.com",
+    "project_id": "cais1-e03e9",
+    "storage_bucket": "cais1-e03e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074469412857:android:6351d376794a8556e82728",
+        "android_client_info": {
+          "package_name": "com.example.CAIS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074469412857-ph6f34hdoigbfjp7pbcbpoma69b2urcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.CAIS",
+            "certificate_hash": "ddc17e1e5df62b5a636b42cb9f7060d738d97ea3"
+          }
+        },
+        {
+          "client_id": "1074469412857-un6mgqhm7gh4bvvpa9sa81u7bpgteqm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcieIadxtiAh-p73xDw_v7p9TgoBoW-Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074469412857-un6mgqhm7gh4bvvpa9sa81u7bpgteqm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
